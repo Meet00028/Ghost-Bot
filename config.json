@@ -1,0 +1,19 @@
+{
+  "openai_api_key": "YOUR_OPENAI_API_KEY",
+  "voice_name": "en-US-ChristopherNeural",
+  "audio_ducking_volume": 0.1,
+  "check_interval_minutes": 30,
+  "manual_queue": [],
+  "output_folder": "ready_to_upload",
+  "channels": [],
+  "editing_settings": {
+    "enable_wrapper_mode": true,
+    "wrapper_text": "Wait for the end... 😱",
+    "watermark_text": "Curated Clips",
+    "speed_multiplier": 1.05,
+    "mirror_video": false,
+    "enable_color_grade": true,
+    "enable_zoom_crop": true,
+    "enable_vignette": true
+  }
+}

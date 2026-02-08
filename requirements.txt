@@ -1,0 +1,10 @@
+yt-dlp
+moviepy
+openai
+schedule
+colorama
+imageio-ffmpeg
+streamlit
+watchdog
+edge-tts
+requests

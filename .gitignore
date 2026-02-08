@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+downloads/
+processed_videos/
+*.mp4
+*.mp3
+*.wav
+.DS_Store
+.env
